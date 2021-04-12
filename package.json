@@ -1,0 +1,15 @@
+{
+	"name": "postalcodes-finder",
+	"version": "1.0.0",
+	"description": "PostalCode Finder, is a npm package that allows you to get info about any italian village.",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nicolò Rancan",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"node-fetch": "^2.6.1"
+	}
+}
